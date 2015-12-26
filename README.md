@@ -14,9 +14,13 @@ git clone git@bitbucket.org:ifromz/tools-clear.git
 mv tools-clear ~/tools
 ```
 
+```bash
+touch ~/tools/logs
+```
+
 ## Uses
 ### Run command
 
 ```bash
-sudo sh ~/tools/run.sh
+sh ~/tools/run.sh
 ```
