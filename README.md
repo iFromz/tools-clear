@@ -8,10 +8,16 @@ Tools Clear cache & ram for Unix
 ```git
 git clone git@bitbucket.org:ifromz/tools-clear.git
 ```
-### Copy folder `tools` to root directory
+### Copy folder to `tools` to root directory
 
 ```bash
 mv tools-clear ~/tools
+```
+
+Create logs file
+
+```bash
+touch ~/tools/logs
 ```
 
 ## Uses
