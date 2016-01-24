@@ -18,5 +18,5 @@ mv tools-clear ~/tools
 ### Run command
 
 ```bash
-sudo sh ~/tools/run.sh
+sh ~/tools/run.sh
 ```
